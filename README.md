@@ -4,10 +4,13 @@ Best Results yet achieved in Model 2.ipynb
 ```
               precision    recall  f1-score   support
 
-           0       0.98      0.88      0.92       112
-           1       0.86      0.98      0.91        88
+           0       0.80      0.75      0.78       106
+           1       0.74      0.79      0.76        94
 
-    accuracy                           0.92       200
-   macro avg       0.92      0.93      0.92       200
-weighted avg       0.93      0.92      0.92       200
+    accuracy                           0.77       200
+   macro avg       0.77      0.77      0.77       200
+weighted avg       0.77      0.77      0.77       200
+
+precision: 0.74
+recall: 0.7872340425531915
 ```
